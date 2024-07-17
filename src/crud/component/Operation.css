@@ -1,0 +1,13 @@
+.operation{
+    list-style: none;
+
+}
+.operation a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+.operation li{
+    padding: 1rem;
+    
+}

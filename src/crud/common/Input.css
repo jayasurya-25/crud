@@ -1,0 +1,11 @@
+.input-box input{
+    margin: 0.5rem;
+    
+}
+.input-box label{
+    background-color: black;
+    color: white;
+}
+.input-box{
+    list-style: none;
+}

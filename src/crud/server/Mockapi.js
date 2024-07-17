@@ -1,0 +1,1 @@
+export const Api_url='https://665d585de88051d6040630e7.mockapi.io/cruddata/'
